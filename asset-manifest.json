@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.708087e4.css",
+    "main.js": "/static/js/main.82725894.js",
+    "static/media/image1.jpg": "/static/media/image1.90d30c5cf17a632e788f.jpg",
+    "static/media/mike-newbry-af5nNainXt4-unsplash.jpg": "/static/media/mike-newbry-af5nNainXt4-unsplash.2be3977fa7dd285d00d9.jpg",
+    "index.html": "/index.html",
+    "main.708087e4.css.map": "/static/css/main.708087e4.css.map",
+    "main.82725894.js.map": "/static/js/main.82725894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708087e4.css",
+    "static/js/main.82725894.js"
+  ]
+}
