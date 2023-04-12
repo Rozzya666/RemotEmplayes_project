@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RemotEmplayes_project/static/css/main.94b4b102.css",
+    "main.js": "/RemotEmplayes_project/static/js/main.d5d6df8f.js",
+    "static/media/image1.jpg": "/RemotEmplayes_project/static/media/image1.90d30c5cf17a632e788f.jpg",
+    "static/media/mike-newbry-af5nNainXt4-unsplash.jpg": "/RemotEmplayes_project/static/media/mike-newbry-af5nNainXt4-unsplash.2be3977fa7dd285d00d9.jpg",
+    "index.html": "/RemotEmplayes_project/index.html",
+    "main.94b4b102.css.map": "/RemotEmplayes_project/static/css/main.94b4b102.css.map",
+    "main.d5d6df8f.js.map": "/RemotEmplayes_project/static/js/main.d5d6df8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b4b102.css",
+    "static/js/main.d5d6df8f.js"
+  ]
+}
