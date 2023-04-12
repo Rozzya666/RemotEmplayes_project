@@ -241,6 +241,33 @@ table {
     .grid_box{
         padding: 0 5px !important;
     }
+    .second_section{
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (min-width: 375px) and  (max-width: 550px){
+    .second_section{
+        flex-wrap: wrap;
+    }
+    .left_section_sec{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .fourth_section{
+        flex-wrap: wrap;
+
+    }
+    .left_block_fourth_section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        padding-bottom: 20px;
+    }
 }
 
 @media only screen and (min-width: 901px) and  (max-width: 1050px){
